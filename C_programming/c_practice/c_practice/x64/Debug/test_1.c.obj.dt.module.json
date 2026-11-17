@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "c_practice\\x64\\Debug\\test_1.obj",
+            "outputs": [
+                "c_practice\\x64\\Debug\\test_1.c.obj.dt.module.json",
+                "c_practice\\x64\\Debug\\test_1.c.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
